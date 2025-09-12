@@ -34,3 +34,53 @@ MICROSOFT AZURE. Internet das Coisas (IoT). Disponível em: https://azure.micros
 KASPERSKY. O que é IoT (Internet das Coisas). Disponível em: https://www.kaspersky.com.br/resource-center/definitions/what-is-iot. Acesso em: 05 set. 2025.
 ORACLE. Internet of Things (IoT). Disponível em: https://www.oracle.com/br/internet-of-things/. Acesso em: 05 set. 2025.
 TECNOBLOG. O que é Internet das Coisas (IoT)? Disponível em: https://tecnoblog.net/responde/o-que-e-internet-das-coisas-iot-entenda-como-funciona-e-veja-exemplos-de-aplicacoes/. Acesso em: 05 set. 2025.
+
+1. Introdução
+
+A Internet das Coisas (IoT - Internet of Things) é considerada uma das maiores transformações da era digital. Trata-se de uma tecnologia que conecta objetos físicos à internet, permitindo que eles se comuniquem, troquem informações e sejam monitorados ou controlados remotamente. Esse conceito tem revolucionado o modo como vivemos, trabalhamos e interagimos com o mundo ao nosso redor. Desde casas inteligentes até indústrias automatizadas, a IoT tem promovido eficiência, inovação e praticidade em larga escala.
+
+2. O que é IoT
+
+A Internet das Coisas (IoT) refere-se a um ecossistema de objetos físicos — como eletrodomésticos, veículos, sensores industriais, dispositivos médicos e até roupas — que estão conectados à internet e são capazes de coletar, transmitir e trocar dados entre si e com sistemas centralizados.
+
+Esses dispositivos utilizam sensores embutidos, softwares e conexões de rede sem fio (como Wi-Fi, Bluetooth, Zigbee e 5G) para operar de forma autônoma, inteligente e em tempo real. O objetivo é integrar o mundo físico com o mundo digital, criando uma infraestrutura capaz de automatizar processos, reduzir erros humanos e gerar valor por meio da análise de dados.
+
+Exemplo prático:
+
+Imagine uma geladeira inteligente que consegue identificar que o leite está acabando e envia uma notificação para seu celular — ou até faz o pedido automaticamente em um supermercado online. Esse é apenas um exemplo simples do potencial da IoT.
+
+A IoT vai muito além dos dispositivos domésticos. Ela está presente em diversos setores como:
+
+Agricultura (sensores de umidade e clima),
+
+Logística (rastreamento de frotas e mercadorias),
+
+Saúde (monitoramento de pacientes em tempo real),
+
+Indústria (automação de máquinas e controle de produção),
+
+Cidades Inteligentes (gestão de trânsito, iluminação pública e segurança).
+
+A grande vantagem da IoT é sua capacidade de transformar objetos comuns em dispositivos inteligentes, proporcionando mais controle, eficiência e agilidade na tomada de decisões — tanto no uso cotidiano quanto em ambientes empresariais e industriais.
+
+Segundo a ORACLE (2025), a IoT permite uma conectividade ubíqua e a construção de sistemas inteligentes que reagem de forma dinâmica ao ambiente e ao comportamento dos usuários.
+
+3. Relevância da IoT
+
+A importância da IoT na sociedade atual é imensa. Essa tecnologia é uma das bases para o avanço de conceitos como cidades inteligentes, indústria 4.0 e automação residencial. Ao conectar o mundo físico ao digital, a IoT permite que decisões sejam tomadas automaticamente, com base em dados em tempo real. Isso resulta em processos mais rápidos, seguros e eficientes.
+
+Grandes empresas como CISCO e IBM destacam a IoT como uma das inovações mais disruptivas do século XXI, capaz de remodelar completamente setores inteiros da economia e da vida urbana.
+
+4. Como funciona a IoT
+
+O funcionamento da IoT envolve quatro etapas principais:
+
+Sensoriamento: Dispositivos coletam dados do ambiente (temperatura, movimento, pressão, localização etc.);
+
+Transmissão de dados: Os dados são enviados via conexões sem fio como Wi-Fi, Bluetooth, LoRaWAN ou 5G;
+
+Armazenamento e processamento: Os dados são enviados para servidores na nuvem ou locais, onde são armazenados e analisados;
+
+Ação ou resposta automatizada: Com base na análise dos dados (muitas vezes com uso de IA e Big Data), são tomadas decisões automáticas ou sugeridas ações para usuários humanos.
+
+Por exemplo, um sensor de fumaça pode identificar um princípio de incêndio e automaticamente acionar o alarme, enviar notificações para o celular do morador e até alertar os bombeiros.

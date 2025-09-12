@@ -1,0 +1,58 @@
+[1mdiff --git a/pesquisaIOT.txt b/pesquisaIOT.txt[m
+[1mindex 20175c6..9aeee52 100644[m
+[1m--- a/pesquisaIOT.txt[m
+[1m+++ b/pesquisaIOT.txt[m
+[36m@@ -34,3 +34,53 @@[m [mMICROSOFT AZURE. Internet das Coisas (IoT). Disponível em: https://azure.micros[m
+ KASPERSKY. O que é IoT (Internet das Coisas). Disponível em: https://www.kaspersky.com.br/resource-center/definitions/what-is-iot. Acesso em: 05 set. 2025.[m
+ ORACLE. Internet of Things (IoT). Disponível em: https://www.oracle.com/br/internet-of-things/. Acesso em: 05 set. 2025.[m
+ TECNOBLOG. O que é Internet das Coisas (IoT)? Disponível em: https://tecnoblog.net/responde/o-que-e-internet-das-coisas-iot-entenda-como-funciona-e-veja-exemplos-de-aplicacoes/. Acesso em: 05 set. 2025.[m
+[32m+[m
+[32m+[m[32m1. Introdução[m
+[32m+[m
+[32m+[m[32mA Internet das Coisas (IoT - Internet of Things) é considerada uma das maiores transformações da era digital. Trata-se de uma tecnologia que conecta objetos físicos à internet, permitindo que eles se comuniquem, troquem informações e sejam monitorados ou controlados remotamente. Esse conceito tem revolucionado o modo como vivemos, trabalhamos e interagimos com o mundo ao nosso redor. Desde casas inteligentes até indústrias automatizadas, a IoT tem promovido eficiência, inovação e praticidade em larga escala.[m
+[32m+[m
+[32m+[m[32m2. O que é IoT[m
+[32m+[m
+[32m+[m[32mA Internet das Coisas (IoT) refere-se a um ecossistema de objetos físicos — como eletrodomésticos, veículos, sensores industriais, dispositivos médicos e até roupas — que estão conectados à internet e são capazes de coletar, transmitir e trocar dados entre si e com sistemas centralizados.[m
+[32m+[m
+[32m+[m[32mEsses dispositivos utilizam sensores embutidos, softwares e conexões de rede sem fio (como Wi-Fi, Bluetooth, Zigbee e 5G) para operar de forma autônoma, inteligente e em tempo real. O objetivo é integrar o mundo físico com o mundo digital, criando uma infraestrutura capaz de automatizar processos, reduzir erros humanos e gerar valor por meio da análise de dados.[m
+[32m+[m
+[32m+[m[32mExemplo prático:[m
+[32m+[m
+[32m+[m[32mImagine uma geladeira inteligente que consegue identificar que o leite está acabando e envia uma notificação para seu celular — ou até faz o pedido automaticamente em um supermercado online. Esse é apenas um exemplo simples do potencial da IoT.[m
+[32m+[m
+[32m+[m[32mA IoT vai muito além dos dispositivos domésticos. Ela está presente em diversos setores como:[m
+[32m+[m
+[32m+[m[32mAgricultura (sensores de umidade e clima),[m
+[32m+[m
+[32m+[m[32mLogística (rastreamento de frotas e mercadorias),[m
+[32m+[m
+[32m+[m[32mSaúde (monitoramento de pacientes em tempo real),[m
+[32m+[m
+[32m+[m[32mIndústria (automação de máquinas e controle de produção),[m
+[32m+[m
+[32m+[m[32mCidades Inteligentes (gestão de trânsito, iluminação pública e segurança).[m
+[32m+[m
+[32m+[m[32mA grande vantagem da IoT é sua capacidade de transformar objetos comuns em dispositivos inteligentes, proporcionando mais controle, eficiência e agilidade na tomada de decisões — tanto no uso cotidiano quanto em ambientes empresariais e industriais.[m
+[32m+[m
+[32m+[m[32mSegundo a ORACLE (2025), a IoT permite uma conectividade ubíqua e a construção de sistemas inteligentes que reagem de forma dinâmica ao ambiente e ao comportamento dos usuários.[m
+[32m+[m
+[32m+[m[32m3. Relevância da IoT[m
+[32m+[m
+[32m+[m[32mA importância da IoT na sociedade atual é imensa. Essa tecnologia é uma das bases para o avanço de conceitos como cidades inteligentes, indústria 4.0 e automação residencial. Ao conectar o mundo físico ao digital, a IoT permite que decisões sejam tomadas automaticamente, com base em dados em tempo real. Isso resulta em processos mais rápidos, seguros e eficientes.[m
+[32m+[m
+[32m+[m[32mGrandes empresas como CISCO e IBM destacam a IoT como uma das inovações mais disruptivas do século XXI, capaz de remodelar completamente setores inteiros da economia e da vida urbana.[m
+[32m+[m
+[32m+[m[32m4. Como funciona a IoT[m
+[32m+[m
+[32m+[m[32mO funcionamento da IoT envolve quatro etapas principais:[m
+[32m+[m
+[32m+[m[32mSensoriamento: Dispositivos coletam dados do ambiente (temperatura, movimento, pressão, localização etc.);[m
+[32m+[m
+[32m+[m[32mTransmissão de dados: Os dados são enviados via conexões sem fio como Wi-Fi, Bluetooth, LoRaWAN ou 5G;[m
+[32m+[m
+[32m+[m[32mArmazenamento e processamento: Os dados são enviados para servidores na nuvem ou locais, onde são armazenados e analisados;[m
+[32m+[m
+[32m+[m[32mAção ou resposta automatizada: Com base na análise dos dados (muitas vezes com uso de IA e Big Data), são tomadas decisões automáticas ou sugeridas ações para usuários humanos.[m
+[32m+[m
+[32m+[m[32mPor exemplo, um sensor de fumaça pode identificar um princípio de incêndio e automaticamente acionar o alarme, enviar notificações para o celular do morador e até alertar os bombeiros.[m
